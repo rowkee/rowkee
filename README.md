@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rowkee
 - 👀 I’m interested in making things
-- 🌱 I’m currently learning CSS
+- 🌱 Javascript, Node.js, Vue, React
 - 💞️ I’m looking to collaborate on anything easy
 - 📫 How to reach me 
 
